@@ -2,11 +2,11 @@
 # 概要
 ファイルの内容を反転・コピー・複製・文字列の置き換えをした新しいファイルを作成するプログラムです。
 ## 操作方法
-* reverse\n
-   inputpath にあるファイルを受け取り、outputpath に inputpath の内容を逆にした新しいファイルを作成します。
-   ```
-   $ python3 file_manipulator.py reverse inputpath outputpath
-   ```
+* reverse
+inputpath にあるファイルを受け取り、outputpath に inputpath の内容を逆にした新しいファイルを作成します。
+```
+$ python3 file_manipulator.py reverse inputpath outputpath
+```
 * copy
    inputpath にあるファイルのコピーを作成し、outputpath として保存します。
    ```
